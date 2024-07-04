@@ -29,3 +29,13 @@ To learn more about Novu, take a look at the following resources:
 - [Novu](https://novu.co/)
 
 You can check out [Novu GitHub repository](https://github.com/novuhq/novu) - your feedback and contributions are welcome!
+
+In order to run Novu workflow run a command:
+
+```bash
+npx novu@latest dev
+```
+
+✔ 🖥️  Dashboard → https://dashboard.novu.co
+✔ 🎨 Studio    → http://localhost:2022/studio
+✔ 🌉 Endpoint  → http://localhost:4000/api/novu
